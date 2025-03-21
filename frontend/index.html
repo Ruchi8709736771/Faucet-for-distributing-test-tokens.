@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test Token Faucet</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Test Token Faucet</h1>
+            <p>Distribute test tokens to your wallet.</p>
+        </header>
+
+        <div class="faucet-section">
+            <button id="claimButton">Claim Tokens</button>
+            <div class="status" id="statusMessage"></div>
+        </div>
+
+        <div class="admin-section">
+            <h2>Faucet Admin</h2>
+            <input type="text" id="amountInput" placeholder="Amount to fund faucet">
+            <button id="fundButton">Fund Faucet</button>
+            <div class="status" id="fundStatusMessage"></div>
+        </div>
+
+        <footer>
+            <p>Powered by Ethereum & Web3.js</p>
+        </footer>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/web3@1.5.2/dist/web3.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
