@@ -25,6 +25,7 @@ The vision of this project is to provide a reliable and automated solution for d
 ## contract
 0x2Ad3955Fd5E27f43B2C0FB02B3096F59FD218285
 ![image](https://github.com/user-attachments/assets/23636d7d-92de-4473-8bca-9149c01c2f69)
-
+FRONTEND
+![image](https://github.com/user-attachments/assets/699568d8-d748-4256-9bdd-4f4f3fc481c9)
 
 
